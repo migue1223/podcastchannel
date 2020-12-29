@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Deployment
 
-Clone repository
-Open index.html in the root of the project.
+- Clone repository
+- Open index.html in the root of the project.
 
 ## Built With
 
